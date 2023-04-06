@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="hadoop-registry-3.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/common/hadoop-registry-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/common/hadoop-nfs-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/common/hadoop-kms-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/common/hadoop-common-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/common/hadoop-common-3.3.4-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="hadoop-mapreduce-client-app-3.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-app-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-plugins-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.4-tests.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-jobclient-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-nativetask-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-shuffle-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-client-uploader-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

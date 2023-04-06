@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-client-api-3.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/client/hadoop-client-api-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/client/hadoop-client-minicluster-3.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/hadoop-3.3.4/share/hadoop/client/hadoop-client-runtime-3.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
